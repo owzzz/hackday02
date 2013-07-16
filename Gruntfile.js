@@ -2,7 +2,6 @@
  
 module.exports = function (grunt) {
  
- 
   // set up config
   grunt.initConfig({
  
