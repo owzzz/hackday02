@@ -1,0 +1,17 @@
+{
+  "name": "Hackday#2",
+  "description": "Hacking on a selection of cutting edge web technologies",
+  "version": "0.0.0",
+  "author": "Owain Llewellyn",
+  "keywords": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1"
+  }
+}

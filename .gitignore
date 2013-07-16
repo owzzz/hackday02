@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+npm_debug.log
+
+tmp/**/*
+*.lock
+*.swp
+*.out
+*.pyc
+*.pyo
+.installed.cfg
+
+downloads
+build
+dist
