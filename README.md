@@ -1,2 +1,2 @@
-hackday-2
+Hackday #2
 =========
